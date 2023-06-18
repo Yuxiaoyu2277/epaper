@@ -1,2 +1,2 @@
-# epaper
-This is a multifunctional ink screen
+# 多功能墨水屏阅读器（名字暂未想好）
+这是一个集成度较高的墨水屏。硬件包含：
